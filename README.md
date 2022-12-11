@@ -55,3 +55,9 @@ Restart the server and then open IIS Manager. Once inside IIS Manager, navigate 
 
 ![image](https://user-images.githubusercontent.com/23139364/206926755-2fa97e46-866b-4c53-8a61-72bc96cf5fe4.png)
 
+### Step 7
+
+Reopen IIS Manager and turn on a few extensions. You must navigate to Sites->Default->osTicket to complete this. then click PHP manager twice. "Disable or enable an extension" should be clicked. Refresh the osTicket webserver to observe the changes after enabling "php intl.dll" and "php opcache.dll." Now, "Intl Extension" must be activated.
+
+![Image](https://camo.githubusercontent.com/5926d9b6541207c854540b86aa1532fead2da5c412d773d3a925c0f6367eac05/68747470733a2f2f692e696d6775722e636f6d2f41505a675554542e706e67)
+
