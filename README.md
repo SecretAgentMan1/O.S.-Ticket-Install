@@ -22,6 +22,7 @@ In this case it's a windows 10 Pro V.M.
 - [Heidi Sql](https://www.heidisql.com/download.php)
 - [PHPManager](https://www.php.net/releases/8.2/en.php)
 - [WebPlatformInstaller](https://www.microsoft.com/web/downloads/platform.aspx)
+- [osTicket](https://osticket.com/editions/)
 
 ### Step 2: The second step is to enable I.I.S.
 This can be done by going into Control Panel > Programs > Programs and Features then enable Internet Information Services in the Windows Features panel where it says turn features on or off.
@@ -41,3 +42,11 @@ Open Web Installer Platform after installation. You will set up MySQL 5.5 from w
 ![Image](https://camo.githubusercontent.com/0a217e07ac4c8c87c854c62c873ee404f9f3400306dcd2925b41210630df1f85/68747470733a2f2f692e696d6775722e636f6d2f4a4a38625a654a2e706e67)
 
 
+### Step 5: Install osTicket
+
+Then download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
+-[osTicket](https://osticket.com/editions/)
+
+![Image](https://camo.githubusercontent.com/2dbc29620ca28bb970a4446c4c876181149d6280e1ed9f242b69cbe8ab6ae35f/68747470733a2f2f692e696d6775722e636f6d2f54554769534b692e706e67)
+
+### Step 6 
