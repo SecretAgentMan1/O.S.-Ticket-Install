@@ -24,6 +24,12 @@ In this case it's a windows 10 Pro V.M.
 - [WebPlatformInstaller](https://www.microsoft.com/web/downloads/platform.aspx)
 
 ### Step 2: The second step is to enable I.I.S.
-This can be done by going into Control Panel > Programs > Programs and Features then enable Internet Information Services 
+This can be done by going into Control Panel > Programs > Programs and Features then enable Internet Information Services in the Windows Features panel where it says turn features on or off.
 
 ![Image](https://camo.githubusercontent.com/53b44f25c4fca037622e4384d661fd8708ab0eedc33d72521d22a185a79b2bf6/68747470733a2f2f692e696d6775722e636f6d2f7174456e7557752e706e67)
+
+### Step 3: Install Microsoft Web Platform Installer
+Just keep clcking next until install.
+
+![Image]
+(https://camo.githubusercontent.com/3d7bf59fdc2aa176e6b763227ca1c426ec74c75ea1bd5a1be171e8e129c662dd/68747470733a2f2f692e696d6775722e636f6d2f417848436651362e706e67)
