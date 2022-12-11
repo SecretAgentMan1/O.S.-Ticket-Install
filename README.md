@@ -38,5 +38,6 @@ Just keep clcking next until install.
 
 Open Web Installer Platform after installation. You will set up MySQL 5.5 from within the program. Install PHP's x86 version up to version 7.3 after that. There are some unsuccessful files that can be accessed with the install link, including the C++ redistributable package, PHP 7.3.8, and PHP Manager for IIS.
 
-![Image]
-(https://camo.githubusercontent.com/0a217e07ac4c8c87c854c62c873ee404f9f3400306dcd2925b41210630df1f85/68747470733a2f2f692e696d6775722e636f6d2f4a4a38625a654a2e706e67)
+![Image](https://camo.githubusercontent.com/0a217e07ac4c8c87c854c62c873ee404f9f3400306dcd2925b41210630df1f85/68747470733a2f2f692e696d6775722e636f6d2f4a4a38625a654a2e706e67)
+
+
