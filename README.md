@@ -49,15 +49,26 @@ Then download osTicket. Then extract and copy the "upload" folder into c:\inetpu
 
 ![Image](https://camo.githubusercontent.com/2dbc29620ca28bb970a4446c4c876181149d6280e1ed9f242b69cbe8ab6ae35f/68747470733a2f2f692e696d6775722e636f6d2f54554769534b692e706e67)
 
-### Step 6 
+### Step 6: Open up the osTicket Webserver
 
-Restart the server and then open IIS Manager. Once inside IIS Manager, navigate to Sites->Default->osTicket and select "Browse*.80"; the osTicket webserver should then open in your default browser.
+Restart the server and then open IIS Manager. Once inside IIS Manager, navigate to Sites-> Default-> osTicket and select "Browse*.80"; the osTicket webserver should then open in your default browser.
 
 ![image](https://user-images.githubusercontent.com/23139364/206926755-2fa97e46-866b-4c53-8a61-72bc96cf5fe4.png)
 
-### Step 7
+### Step 7: Enable Php Extensions in I.I.S.
 
 Reopen IIS Manager and turn on a few extensions. You must navigate to Sites->Default->osTicket to complete this. then click PHP manager twice. "Disable or enable an extension" should be clicked. Refresh the osTicket webserver to observe the changes after enabling "php intl.dll" and "php opcache.dll." Now, "Intl Extension" must be activated.
 
 ![Image](https://camo.githubusercontent.com/5926d9b6541207c854540b86aa1532fead2da5c412d773d3a925c0f6367eac05/68747470733a2f2f692e696d6775722e636f6d2f41505a675554542e706e67)
 
+### Step 8: Configure http extensions.
+
+Go return to ost-sampleconfig.php in the c:inetpubwwwrootosTicket directory. The file should now be called c:inetpubwwwrootosTicketincludeost-config.php. Give ost-config.php permissions. Eliminate inheritance Remove all New Permissions, -> everyone, -> all.
+
+![Image](https://camo.githubusercontent.com/0a89dc3d5a476c0a5d2a90e808776c26c1c24397702e3064076650c9e6fcd040/68747470733a2f2f692e696d6775722e636f6d2f316e59615947652e706e67)
+
+### Step 9:  
+
+![Image](https://camo.githubusercontent.com/0a89dc3d5a476c0a5d2a90e808776c26c1c24397702e3064076650c9e6fcd040/68747470733a2f2f692e696d6775722e636f6d2f316e59615947652e706e67)
+
+Afterwards continue setting up osTicket in the browser (click continue) then you will name the Helpdesk to your liking. Select a default email that will receive emails from customers who submit tickets.
