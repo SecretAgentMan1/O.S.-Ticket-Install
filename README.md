@@ -18,7 +18,12 @@ In this case it's a windows 10 Pro V.M.
  
 ![image](https://user-images.githubusercontent.com/23139364/206923552-6cc91c02-0e0d-46d8-a52d-33211ffc55f8.png)
 
-### The first thing you need to do is download.
+### Step 1: The first thing you need to do is download these programs, and envrionments.
 - [Heidi Sql](https://www.heidisql.com/download.php)
 - [PHPManager](https://www.php.net/releases/8.2/en.php)
-- [WebPlatformInstaller](https://www.php.net/releases/8.2/en.php)
+- [WebPlatformInstaller](https://www.microsoft.com/web/downloads/platform.aspx)
+
+### Step 2: The second step is to enable I.I.S.
+This can be done by going into Control Panel > Programs > Programs and Features then enable Internet Information Services 
+
+![Image](https://camo.githubusercontent.com/53b44f25c4fca037622e4384d661fd8708ab0eedc33d72521d22a185a79b2bf6/68747470733a2f2f692e696d6775722e636f6d2f7174456e7557752e706e67)
