@@ -31,7 +31,6 @@ This can be done by going into Control Panel > Programs > Programs and Features 
 ### Step 3: Install Microsoft Web Platform Installer
 Just keep clcking next until install.
 
-![Image]
-(https://camo.githubusercontent.com/3d7bf59fdc2aa176e6b763227ca1c426ec74c75ea1bd5a1be171e8e129c662dd/68747470733a2f2f692e696d6775722e636f6d2f417848436651362e706e67)
+![Image](https://camo.githubusercontent.com/3d7bf59fdc2aa176e6b763227ca1c426ec74c75ea1bd5a1be171e8e129c662dd/68747470733a2f2f692e696d6775722e636f6d2f417848436651362e706e67)
 
 
