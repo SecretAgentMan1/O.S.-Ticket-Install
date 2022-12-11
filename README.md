@@ -70,8 +70,6 @@ Afterwards continue setting up osTicket in the browser (click continue) then you
 
 ### Step 10: Finish setting up the Mysql Database
 
-Continue Setting up osticket in the browser MySQL Database : osTicket MySQL Username : root MySQL Password : Password1 Click “ Install Now! ” Congratulations, hopefully it was installed with no errors!
-
-![Image](https://camo.githubusercontent.com/75c0007925a8c9441f19a4a8352d4164464472b36eb2720c90636d33cc2ac073/68747470733a2f2f692e696d6775722e636f6d2f526d566b3371352e706e67)
+Continue Setting up osticket in the browser MySQL Database : osTicket MySQL Username : root MySQL Password : Password1 Click “ Install Now! ” Congratulations, it should be installed with no errors!
 
 This was the tutorial I hope you have a great day, and as always lets focus on the best possible outcome!
