@@ -45,8 +45,13 @@ Open Web Installer Platform after installation. You will set up MySQL 5.5 from w
 ### Step 5: Install osTicket
 
 Then download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
--[osTicket](https://osticket.com/editions/)
+- [osTicket](https://osticket.com/editions/)
 
 ![Image](https://camo.githubusercontent.com/2dbc29620ca28bb970a4446c4c876181149d6280e1ed9f242b69cbe8ab6ae35f/68747470733a2f2f692e696d6775722e636f6d2f54554769534b692e706e67)
 
 ### Step 6 
+
+Restart the server and then open IIS Manager. Once inside IIS Manager, navigate to Sites->Default->osTicket and select "Browse*.80"; the osTicket webserver should then open in your default browser.
+
+![image](https://user-images.githubusercontent.com/23139364/206926755-2fa97e46-866b-4c53-8a61-72bc96cf5fe4.png)
+
